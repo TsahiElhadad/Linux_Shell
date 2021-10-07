@@ -1,6 +1,6 @@
 # Linux_Shell
 C program that  implement Shell in linux. <br />
-The program displays a prompt on the screen and allows the user to type commands in Linux like `ls`, `cat`, `sleep`. <br />
+The program displays a prompt on the screen and allows the user to type commands in Linux like `ls`, `cat`, `sleep` and more. <br />
 After pressing ENTER, the typed command will be executed. <br />
 
 ## Non built-in commands ##
